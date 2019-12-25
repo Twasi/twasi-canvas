@@ -1,0 +1,6 @@
+name: twasi-canvas
+author: Twasi-Team
+main: net.twasiplugin.canvas.CanvasPlugin
+version: 1.0.0
+autoInstall: true
+hidden: true
